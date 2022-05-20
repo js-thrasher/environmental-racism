@@ -10,4 +10,4 @@ Air Pollution Data comes from eLichens
 
 Lead Pollution Data comes from Michael J. O'shea et al at the University of Pennsylvania - Philadelphia
 
-[Map](https://thrasherjatwit.github.io/environmental-racism/us-map.html)
+[Map](https://js-thrasher.github.io/environmental-racism/us-map.html)
